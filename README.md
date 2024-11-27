@@ -1,6 +1,8 @@
 # LoL Injector
 
-A pre-launch executable to assist on playing League of Legends on Linux. 
+A pre-launch executable to assist on playing League of Legends on Linux.
+
+**UPDATE: Since Vanguard was introduced in May 1, 2024, this tool has no use anymore.**
 
 # Motivation
 
